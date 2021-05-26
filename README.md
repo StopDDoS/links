@@ -59,5 +59,15 @@ Keep in mind the source ips of these attacks are often legit machines. They are 
 ### SYN flood
 implement syn cookies, preferably on a very fast machine with XDP or a specialized firewall
 
+## Interesting opensource projects
+https://github.com/pavel-odintsov/fastnetmon ddos detection from sFlow.
+https://github.com/jjsantanna/pcap_dns_ddos_analysis packet capture analysis for automation and better understanding a attack
+
+XDP is also a very promising technology for ddos protection:
+
+https://github.com/xdp-project/xdp-tutorial The holy grail of XDP information. This repository contains a lot of getting-started information for packet handling in the kernel.
+https://github.com/PlushBeaver/xdp-syn-cookie syn cookies implemented in XDP space. About 50% faster when runnning in SKB mode than the normal kernel system and toggleable on demand.
+
+
 ### Other
 // TODO, want to contribute? Please open up a PR or github issue.
