@@ -57,7 +57,7 @@ Keep in mind the source ips of these attacks are often legit machines. They are 
 
 
 ### SYN flood
-implement syn cookies, preferably on a very fast machine with XDP or a specialized firewall
+implement syn cookies, preferably on a very fast machine with XDP or a specialized firewall. For large scale attacks look at implementing p0f signature checks.
 
 ## Interesting opensource projects
 https://github.com/pavel-odintsov/fastnetmon ddos detection from sFlow.
