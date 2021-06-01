@@ -75,5 +75,11 @@ https://github.com/PlushBeaver/xdp-syn-cookie syn cookies implemented in XDP spa
 
 https://github.com/matthewbentley/ebpf-flowradar WIP flowradar implementation in XDP using bloom filters
 
+
+More research:
+https://github.com/Phenomite/AMP-Research UDP amplification ports
+
+https://gitlab.com/cryptio/ddos-research/-/tree/master chase's anti ddos research.
+
 ### Other
 // TODO, want to contribute? Please open up a PR or github issue.
