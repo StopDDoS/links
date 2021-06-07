@@ -84,21 +84,23 @@ https://gitlab.com/cryptio/ddos-research/-/tree/master chase's anti ddos researc
 
 
 
-
-
-
-Good DDoS-related reads
+Good DDoS-related reads:
 https://blog.cloudflare.com/meet-gatebot-a-bot-that-allows-us-to-sleep/
+
 https://blog.cloudflare.com/l4drop-xdp-ebpf-based-ddos-mitigations/
+
 https://blog.cloudflare.com/how-to-drop-10-million-packets/
--
+
 https://ebpf.io/
--
+
 https://developers.redhat.com/blog/2018/12/06/achieving-high-performance-low-latency-networking-with-xdp-part-1/
--
+
 Others that might be worth a look
+
 https://jvns.ca/blog/2017/04/07/xdp-bpf-tutorial/
+
 https://essay.utwente.nl/80125/1/vanwieren_MA_DACS.pdf
+
 https://events19.linuxfoundation.org/wp-content/uploads/2017/12/Super-Fast-Packet-Filtering-with-eBPF-and-XDP-Helen-Tabunshchyk-Cloudflare-1.pdf
 
 
